@@ -28,4 +28,11 @@ Sou um desenvolvedor Full-Stack apaixonado por unir a precisão da lógica com a
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PEDROZKGAMER&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEDROZKGAMER&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
 > Atualmente dedicando meus estudos ao ecossistema de frameworks SPA para complementar minha base de Front-end.
