@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, visitante! 👋 Obrigado por passar por aqui. Sinta-se em casa e explore meus repositórios! 👋
 
 ##  Desenvolvedor Full-Stack | Design, Lógica & Matemática
 
