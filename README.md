@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Olá,+visitante!+Seja+bem-vindo.;Desenvolvedor+Full-Stack;Design,+Lógica+e+Matemática+aplicados+à+Tecnologia.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá,+visitante!+Seja+bem-vindo.;Desenvolvedor+Full-Stack;Design,+Lógica+e+Matemática+aplicados+à+Tecnologia.">
 
   <p>
     <img src="https://img.shields.io/github/followers/PEDROZKGAMER?label=Seguidores&style=for-the-badge&color=36BCF7&logo=github">
